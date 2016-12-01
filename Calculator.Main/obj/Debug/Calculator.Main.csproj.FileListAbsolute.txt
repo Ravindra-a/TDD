@@ -1,0 +1,9 @@
+E:\Handson\TDDSample\Calculator.Main\bin\Debug\Calculator.Main.exe.config
+E:\Handson\TDDSample\Calculator.Main\bin\Debug\observations.xml
+E:\Handson\TDDSample\Calculator.Main\bin\Debug\Calculator.Main.exe
+E:\Handson\TDDSample\Calculator.Main\bin\Debug\Calculator.Main.pdb
+E:\Handson\TDDSample\Calculator.Main\bin\Debug\Calculator.Domain.dll
+E:\Handson\TDDSample\Calculator.Main\bin\Debug\Calculator.Domain.pdb
+E:\Handson\TDDSample\Calculator.Main\obj\Debug\Calculator.Main.csprojResolveAssemblyReference.cache
+E:\Handson\TDDSample\Calculator.Main\obj\Debug\Calculator.Main.exe
+E:\Handson\TDDSample\Calculator.Main\obj\Debug\Calculator.Main.pdb

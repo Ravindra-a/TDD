@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Observations>
+  <Observation High="10" Low="3"/>
+  <Observation High="11" Low="10"/>
+  <Observation High="13" Low="8"/>
+  <Observation High="15" Low="7"/>
+  <Observation High="16" Low="5"/>
+  <Observation High="11" Low="4"/>
+  <Observation High="12" Low="3"/>
+</Observations>

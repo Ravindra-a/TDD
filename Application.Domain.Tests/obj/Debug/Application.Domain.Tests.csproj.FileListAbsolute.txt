@@ -1,0 +1,9 @@
+E:\Handson\TDDSample\Application.Domain.Tests\bin\Debug\Application.Domain.Tests.dll
+E:\Handson\TDDSample\Application.Domain.Tests\bin\Debug\Application.Domain.Tests.pdb
+E:\Handson\TDDSample\Application.Domain.Tests\bin\Debug\nunit.framework.dll
+E:\Handson\TDDSample\Application.Domain.Tests\bin\Debug\nunit.framework.xml
+E:\Handson\TDDSample\Application.Domain.Tests\obj\Debug\Application.Domain.Tests.csprojResolveAssemblyReference.cache
+E:\Handson\TDDSample\Application.Domain.Tests\obj\Debug\Application.Domain.Tests.dll
+E:\Handson\TDDSample\Application.Domain.Tests\obj\Debug\Application.Domain.Tests.pdb
+E:\Handson\TDDSample\Application.Domain.Tests\bin\Debug\Application.Domain.dll
+E:\Handson\TDDSample\Application.Domain.Tests\bin\Debug\Application.Domain.pdb

@@ -1,0 +1,9 @@
+E:\Handson\TDDSample\Calculator.Tests\bin\Debug\Calculator.Tests.dll
+E:\Handson\TDDSample\Calculator.Tests\bin\Debug\Calculator.Tests.pdb
+E:\Handson\TDDSample\Calculator.Tests\bin\Debug\Calculator.Domain.dll
+E:\Handson\TDDSample\Calculator.Tests\bin\Debug\nunit.framework.dll
+E:\Handson\TDDSample\Calculator.Tests\bin\Debug\Calculator.Domain.pdb
+E:\Handson\TDDSample\Calculator.Tests\bin\Debug\nunit.framework.xml
+E:\Handson\TDDSample\Calculator.Tests\obj\Debug\Calculator.Tests.csprojResolveAssemblyReference.cache
+E:\Handson\TDDSample\Calculator.Tests\obj\Debug\Calculator.Tests.dll
+E:\Handson\TDDSample\Calculator.Tests\obj\Debug\Calculator.Tests.pdb

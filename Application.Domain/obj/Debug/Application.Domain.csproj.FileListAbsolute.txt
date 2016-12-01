@@ -1,0 +1,4 @@
+E:\Handson\TDDSample\Application.Domain\bin\Debug\Application.Domain.dll
+E:\Handson\TDDSample\Application.Domain\bin\Debug\Application.Domain.pdb
+E:\Handson\TDDSample\Application.Domain\obj\Debug\Application.Domain.dll
+E:\Handson\TDDSample\Application.Domain\obj\Debug\Application.Domain.pdb
